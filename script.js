@@ -249,8 +249,8 @@ const storyNodes = [
         text: 'Você decide explorar mais a sala, mas encontra um enigma extra: "Por que é importante promover a colaboração entre os alunos em sala de aula?"',
         image: 'images/hall.jpg',
         choices: [
-            { text: 'Desenvolve habilidades sociais e promove a resolução conjunta de problemas', nextStep: 20 },
-            { text: 'Para reduzir o tempo de aula necessário', nextStep: 22 },
+            { text: 'Desenvolve habilidades sociais e promove a resolução conjunta de problemas', nextStep: 22 },
+            { text: 'Para reduzir o tempo de aula necessário', nextStep: 19 },
         ],
     },
     {
