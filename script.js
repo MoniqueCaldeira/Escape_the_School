@@ -246,11 +246,11 @@ const storyNodes = [
     },
     {
         step: 21,
-        text: 'Você decide explorar mais a sala, mas encontra um enigma extra: "Qual técnica ajuda os alunos a internalizar o conhecimento através da prática e revisão?"',
+        text: 'Você decide explorar mais a sala, mas encontra um enigma extra: "Por que é importante promover a colaboração entre os alunos em sala de aula?"',
         image: 'images/hall.jpg',
         choices: [
-            { text: 'Revisão Espiral', nextStep: 20 },
-            { text: 'Memorização', nextStep: 22 },
+            { text: 'Desenvolve habilidades sociais e promove a resolução conjunta de problemas', nextStep: 20 },
+            { text: 'Para reduzir o tempo de aula necessário', nextStep: 22 },
         ],
     },
     {
